@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "title": "示例：单人说话与听者反应",
+  "fps": 24,
+  "width": 720,
+  "height": 1280,
+  "expected_duration": 8,
+  "output": "../output/demo.mp4",
+  "clips": [
+    {
+      "id": "E1-01",
+      "source": "../raw/speaker.mp4",
+      "start": 1,
+      "end": 5,
+      "source_audio": "native",
+      "normalize_audio": true,
+      "target_lufs": -18,
+      "note": "说话者正面镜；声音和口型来自同一源片。"
+    },
+    {
+      "id": "E1-02",
+      "source": "../raw/listener.mp4",
+      "start": 2,
+      "end": 6,
+      "source_audio": "ambient",
+      "audio_gain": 0.35,
+      "note": "听者反应镜；只保留环境声，不补错位对白。"
+    }
+  ],
+  "voice_overs": [],
+  "subtitles": {"enabled": false}
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-label="短剧制作期积分成本图">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b2e"/><stop offset="1" stop-color="#20374a"/></linearGradient><style>text{font-family:-apple-system,BlinkMacSystemFont,'Noto Sans CJK SC','Microsoft YaHei',sans-serif}.title{fill:#f8fafc;font-size:31px;font-weight:700}.big{fill:#f8fafc;font-size:66px;font-weight:800}.label{fill:#c4d4dc;font-size:20px}.small{fill:#91aebb;font-size:17px}.num{fill:#f8fafc;font-size:29px;font-weight:700}</style></defs>
+<rect width="1200" height="510" rx="26" fill="url(#bg)"/>
+<text x="55" y="65" class="title">制作期生成成本 · 账户流水去重后</text>
+<text x="55" y="150" class="big">11,460 <tspan font-size="29">积分</tspan></text>
+<text x="58" y="188" class="small">7,481 期初余额 + 4,000 团队转入 − 21 期末余额</text>
+<rect x="55" y="230" width="1090" height="42" rx="21" fill="#365064"/>
+<rect x="55" y="230" width="1082" height="42" rx="21" fill="#57b5c4"/>
+<circle cx="1125" cy="251" r="21" fill="#f1b970"/>
+<text x="55" y="326" class="num">11,378</text><text x="215" y="325" class="label">视频生成 · 124 笔 · 99.3%</text>
+<text x="755" y="326" class="num">82</text><text x="805" y="325" class="label">平台 AI 生成 · 10 笔</text>
+<path d="M55 365 H1145" stroke="#547080" stroke-width="1"/>
+<text x="55" y="410" class="num">约 ¥526</text><text x="250" y="408" class="label">按当前优惠套餐折算的资源价值</text>
+<text x="55" y="451" class="small">若现在购入足量积分：7,200 分 ¥329 + 4,300 分 ¥199 = 11,500 分 ¥528。不是项目实付账单。</text>
+<text x="55" y="480" class="small">时间口径：2026-09-29 16:53 — 09-30 12:43；现价查询：2026-10-02。</text>
+</svg>
